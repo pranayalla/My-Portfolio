@@ -1,5 +1,3 @@
-# Portfolio
-
 <div align="center">
 
   <h1>👋 Hi there, I'm <span style="color: #61dafb;">Alla Pranay</span></h1>
